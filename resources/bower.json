@@ -1,0 +1,16 @@
+{
+  "name": "feelAtHome",
+  "homepage": "https://github.com/gchaubal/feel-at-home-web-client",
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "angular-animate": "^1.4.8",
+    "angular-material": "^1.0.5",
+    "angular": "angularjs#^1.5.0",
+    "bootstrap": "^3.3.6",
+    "masonry": "desandro/masonry#^4.0.0"
+  }
+}
